@@ -1,2 +1,2 @@
 # basics-of-py
-print("hello world"); 
+print("hello world")
